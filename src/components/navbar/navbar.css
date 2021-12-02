@@ -1,0 +1,26 @@
+#navbar .dropdown-header .row:nth-child(1) {
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+#navbar #dropdown-header .row:nth-child(2) {
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.img-logo { /*Agregar imagen del logo antes del nombre del proyecto en la navbar*/
+    width: 80%;
+    padding-right: 10px;
+}
+
+#navbar {
+    background-color: #f1f1f1;
+    padding-right: 50px;
+}
+
+#navbar .logo {
+    width: 50%;
+}
